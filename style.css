@@ -11,7 +11,7 @@ body {
     align-items: center;
 
     font-family: sans-serif;
-    background-color: powderblue;
+    background-color: rgb(252, 217, 252);
 }
 
 /* Book */
@@ -47,7 +47,7 @@ body {
 .front {
     z-index: 1;
     backface-visibility: hidden;
-    border-left: 3px solid powderblue;
+    border-left: 3px solid  rgb(252, 217, 252);;
 }
 
 .back {
